@@ -1,7 +1,7 @@
 # Contributions to Vocabulary Builder
 
 ## File Name
-The name starts with a capital letter.
+The name  of file starts with a capital letter.
 One word per file.
 For instance : `[FIRST-LETTER]/[Word].json`
 
